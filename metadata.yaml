@@ -1,0 +1,30 @@
+_repo: Master-Reynard--The-History-of-a-Fox_44347
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44347-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Tregarthen, J. C. (John Coulson)
+    alias: Tregarthen, John Coulson
+    birthdate: 1854
+    deathdate: 1933
+    gutenberg_agent_id: '44723'
+    url: http://www.gutenberg.org/2009/agents/44723
+  - agent_name: Fielding, Jane
+    gutenberg_agent_id: '35212'
+    url: http://www.gutenberg.org/2009/agents/35212
+description: ''
+gutenberg_issued: '2013-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Foxes -- Fiction'
+title: 'Master Reynard: The History of a Fox'
+url: http://www.gutenberg.org/ebooks/44347
